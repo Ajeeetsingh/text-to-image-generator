@@ -42,6 +42,9 @@ The following images were generated using the app, showcasing its ability to han
 ![Abstract Art](screenshots/abstract_art_hyper-realistic.png)
 
 
+If unable to open the notebook, try this link:
+https://colab.research.google.com/drive/1KiCkPQu5jt1VOQXZ42hpqg94VsL19LgD?usp=sharing
+
 Streamlit UI: The interactive interface for prompt input and filter customization.
 
 How to Run
