@@ -28,6 +28,7 @@ The following images were generated using the app, showcasing its ability to han
 
 
 **Futuristic City at Night**
+
 ![Futuristic City at Night](screenshots/futuristic_city.png)
 
 **Majestic Snow-Covered Mountain**
