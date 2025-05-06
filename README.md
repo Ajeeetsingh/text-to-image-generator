@@ -26,6 +26,7 @@ Python: For scripting and logic, including enhance_prompt() and generate_image()
 Screenshots and Example Prompts
 The following images were generated using the app, showcasing its ability to handle diverse prompts with enhanced styles:
 
+
 **Futuristic City at Night**
 ![Futuristic City at Night](screenshots/futuristic_city.png)
 
