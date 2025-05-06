@@ -47,6 +47,7 @@ The following images were generated using the app, showcasing its ability to han
 ![Vintage Car in Desert](screenshots/vintage_car_in_desert_hyper-re.png)
 
 **Abstract Art**
+
 ![Abstract Art](screenshots/abstract_art_hyper-realistic.png)
 
 
