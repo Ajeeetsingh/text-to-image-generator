@@ -35,12 +35,15 @@ The following images were generated using the app, showcasing its ability to han
 ![Majestic Snow-Covered Mountain](screenshots/majestic_snow-covered_mountain.png)
 
 **Steampunk Airship**
+
 ![Steampunk Airship](screenshots/steampunk_airship_hyper-realis.png)
 
 **Underwater Coral Reef**
+
 ![Underwater Coral Reef](screenshots/underwater_coral_reef_hyper-re.png)
 
 **Vintage Car in Desert**
+
 ![Vintage Car in Desert](screenshots/vintage_car_in_desert_hyper-re.png)
 
 **Abstract Art**
