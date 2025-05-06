@@ -2,12 +2,15 @@ If unable to open the notebook, try this link:
 https://colab.research.google.com/drive/1KiCkPQu5jt1VOQXZ42hpqg94VsL19LgD?usp=sharing
 
 Text-to-Image Generator
+
 This project leverages generative AI to create high-quality images from text prompts using the Stable Diffusion model, deployed as an interactive Streamlit web application on Google Colab. It features dynamic prompt enhancement for realistic and vibrant outputs, user-controlled filters for customization, and seamless image storage on Google Drive. The app is publicly accessible via ngrok, making it a robust demonstration of AI-driven creativity and web development.
 
 Purpose
+
 The Text-to-Image Generator enables users to input text prompts (e.g., "a cat walking on the moon") and generate visually stunning images tailored to specific styles, such as sci-fi, fantasy, or nature. Built to showcase generative AI capabilities, it provides an intuitive interface for experimenting with prompt engineering, image quality settings, and cloud-based deployment, ideal for AI enthusiasts and developers.
 
 How It Was Built
+
 The project was developed in Google Colab with a GPU runtime, structured across multiple stages:
 
 Setup: Installed dependencies (diffusers, transformers, torch, streamlit, pyngrok, pillow) and mounted Google Drive for image storage.
