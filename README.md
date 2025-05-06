@@ -1,3 +1,6 @@
+If unable to open the notebook, try this link:
+https://colab.research.google.com/drive/1KiCkPQu5jt1VOQXZ42hpqg94VsL19LgD?usp=sharing
+
 Text-to-Image Generator
 This project leverages generative AI to create high-quality images from text prompts using the Stable Diffusion model, deployed as an interactive Streamlit web application on Google Colab. It features dynamic prompt enhancement for realistic and vibrant outputs, user-controlled filters for customization, and seamless image storage on Google Drive. The app is publicly accessible via ngrok, making it a robust demonstration of AI-driven creativity and web development.
 
@@ -41,9 +44,6 @@ The following images were generated using the app, showcasing its ability to han
 **Abstract Art**
 ![Abstract Art](screenshots/abstract_art_hyper-realistic.png)
 
-
-If unable to open the notebook, try this link:
-https://colab.research.google.com/drive/1KiCkPQu5jt1VOQXZ42hpqg94VsL19LgD?usp=sharing
 
 Streamlit UI: The interactive interface for prompt input and filter customization.
 
